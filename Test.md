@@ -2,4 +2,6 @@
 
 * git branch - показать все ветки
 
-* git 
+* git merge - слияние
+
+* git
