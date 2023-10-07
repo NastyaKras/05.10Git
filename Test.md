@@ -7,3 +7,7 @@
 * git merge - слияние
 
 * git branch -d name - удаление ветки
+
+* git commit -m “message” – создание коммита.
+
+* git branch – посмотреть список веток в репозитории
